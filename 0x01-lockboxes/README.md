@@ -1,0 +1,1 @@
+# add script with method that determines if all boxes can be opened given n number of locked boxes, each box numbered sequentially from 0 to n - 1 and each box chancing to have a key to the other boxes
